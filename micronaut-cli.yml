@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cloud.winterboots.product
+---
+testFramework: spock
+sourceLanguage: java
